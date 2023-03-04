@@ -4,4 +4,4 @@ Datasets corresponding a combination of reading scenarios
 - Second letter indicates distance between antennas (d): (P) 2 m, (M) 2.5 m, (G) 3 m.  
 - Third letter indicates the number of boxes of the tested dataset: (P) 4 boxes, (M) 8 boxes, (G) 16 boxes. 
 
-The TL1SXM, TL2SMF and TL3NMM files corresponds with the data and results of the tranfer learning approach.
+Files in TL1SXM, TL2SMF and TL3NMM correspond with the data and results of the tranfer learning approach.
