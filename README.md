@@ -15,9 +15,12 @@ The `index` file summarizes, at each row, the high-level statistics for the inte
 An example of the data registered:
 
 <img src='zfigs/index.png' width='750'>
+That contains a summary of the interrogation performed on a box, such as the LxWxH dimensions or the position of the box with respect of the antennas.
 
 The `frames` file provides low-level statistics for each interrogation frame. An example of statistics collected:
 
-<img src='zfigs/frames.png' width='750'>
+<img src='zfigs/frames.png' width='650'>
 
-(note that the interrogation procedure for each package usually comprises multiple frames)
+(note that the interrogation procedure for each package usually comprises multiple frames).
+For example, the first package was inventoried in the 12 first frames. In the frame 12, a
+last tag is identified.
