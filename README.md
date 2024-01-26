@@ -1,5 +1,3 @@
-Your GitHub readme content looks quite informative, but you can enhance it further by providing clearer explanations and improving the overall structure. Here's a revised version:
-
 # Package Size Estimation Using UHF RFID Signature
 
 This repository contains datasets representing a combination of reading scenarios for package size estimation using UHF RFID signature. The scenarios are categorized based on three key factors:
