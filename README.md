@@ -14,9 +14,10 @@ The data collected in the experiments are in two `txt` files, `index` and `frame
 The `index` file summarizes, at each row, the high-level statistics for the interrogation procedure of each package.
 An example of the data registered:
 
-
+<img src='zfigs/index.png' width='750'>
 
 The `frames` file provides low-level statistics for each interrogation frame. An example of statistics collected:
 
+<img src='zfigs/frames.png' width='750'>
 
 (note that the interrogation procedure for each package usually comprises multiple frames)
