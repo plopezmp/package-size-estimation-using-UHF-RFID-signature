@@ -37,7 +37,7 @@ The `frames` file provides low-level statistics for each interrogation frame. It
 
 Example of statistics collected:
 
-<img src='zfigs/frames.png' width='650'>
+<img src='zfigs/frames.png' width='500'>
 
 (Note: The interrogation procedure for each package usually comprises multiple frames. For instance, the first package was inventoried in the first 12 frames, with the last tag identified in frame 12.)
 
