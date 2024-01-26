@@ -24,3 +24,7 @@ The `frames` file provides low-level statistics for each interrogation frame. An
 (note that the interrogation procedure for each package usually comprises multiple frames).
 For example, the first package was inventoried in the 12 first frames. In the frame 12, a
 last tag is identified.
+
+These datasets has been used to train different models of ANNs. The results could be reviewed in the paper
+
+Vales-Alonso,J; López-Matencio,P. *A machine learning approach for package size estimation using UHF RFID interrogation signature*, actually under reviewing process in **Applied Intelligence (APIN)** Journal.
