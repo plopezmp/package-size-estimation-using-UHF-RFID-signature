@@ -21,7 +21,9 @@ This repository contains datasets representing a combination of reading scenario
 The files in TL1SXM, TL2SMF, and TL3NMM correspond to the data and results of the transfer learning approach.
 --->
 The files in TL1, TL2, and TL3 correspond to the data traces used in the transfer learning approach. TL1, TL2 and TL3 correspond with setups derived from the *reference escenario*, SMM.
-- **TL1:** derived from the reference scenario, but assuming different gate dimensions: $d$=2.25 m, $h_a$=2.25 m, $h_b$ = 1.2 m.
+- **TL1:** considers a different gate dimensions: $d$=2.25 m, $h_a$=2.25 m, $h_b$ = 1.2 m.
+- **TL2:** adds two boxes to the (M) boxes set.
+- **TL2:** considers new random conditions for the packages placement. This setup is more realistic and difficult to tackle.
 
 
 ## Data Explanation
@@ -56,4 +58,6 @@ These datasets have been utilized to train Artificial Neural Networks (ANNs) of 
 
 *Note: The paper is currently under the review process.*
 
+## Processing code
 
+- **boxes.ipynb:** The Jupyter notebook used to estimate the box size from RFID interrogation traces using transfer learning. The Python code in the notebook computes the *accuracy* and the *confusion matrix* of the escenarios selected.
