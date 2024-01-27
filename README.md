@@ -17,7 +17,12 @@ This repository contains datasets representing a combination of reading scenario
   - (M) 8 boxes
   - (G) 16 boxes
 
+<!--- 
 The files in TL1SXM, TL2SMF, and TL3NMM correspond to the data and results of the transfer learning approach.
+--->
+The files in TL1, TL2, and TL3 correspond to the data traces used in the transfer learning approach. TL1, TL2 and TL3 correspond with setups derived from the *reference escenario*, SMM.
+- **TL1:** derived from the reference scenario, but assuming different gate dimensions: $d$=2.25 m, $h_a$=2.25 m, $h_b$ = 1.2 m.
+
 
 ## Data Explanation
 
@@ -51,4 +56,4 @@ These datasets have been utilized to train Artificial Neural Networks (ANNs) of 
 
 *Note: The paper is currently under the review process.*
 
-Feel free to adapt and customize the content according to your preferences and additional details you may want to include.
+
