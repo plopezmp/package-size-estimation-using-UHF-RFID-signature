@@ -56,7 +56,7 @@ These datasets have been utilized to train Artificial Neural Networks (ANNs) of 
 
 **Journal:** Applied Intelligence (APIN)
 
-*Note: The paper is currently under the review process.*
+*Note: The paper is accepted and pending its publication.*
 
 ## Processing code
 
