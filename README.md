@@ -48,16 +48,12 @@ Example of statistics collected:
 
 (Note: The interrogation procedure for each package usually comprises multiple frames. For instance, the first package was inventoried in the first 12 frames, with the last tag identified in frame 12.)
 
-These datasets have been utilized to train Artificial Neural Networks (ANNs) of different architectures. For detailed results, please refer to the paper:
-
-**Title:** A Machine Learning Approach for Package Size Estimation Using UHF RFID Interrogation Signature
-
-**Authors:** J. Vales-Alonso, P. López-Matencio
-
-**Journal:** Applied Intelligence (APIN)
-
-*Note: The paper is accepted and pending its publication.*
+These datasets have been utilized to train Artificial Neural Networks (ANNs) of different architectures. 
 
 ## Processing code
 
 - **boxes.ipynb:** The Jupyter notebook used to estimate the box size from RFID interrogation traces using transfer learning. The Python code in the notebook computes the *accuracy* and the *confusion matrix* of the escenarios selected.
+
+**Please, cite as:**
+
+Vales-Alonso, J., López-Matencio, P. **A machine learning approach for package size estimation using UHF RFID interrogation signature.** Appl Intell (2024). https://doi.org/10.1007/s10489-024-05412-2
