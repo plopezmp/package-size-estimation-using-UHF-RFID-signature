@@ -56,4 +56,4 @@ These datasets have been utilized to train Artificial Neural Networks (ANNs) of 
 
 **Please, cite as:**
 
-Vales-Alonso, J., López-Matencio, P. **A machine learning approach for package size estimation using UHF RFID interrogation signature.** Appl Intell (2024). https://doi.org/10.1007/s10489-024-05412-2
+Vales-Alonso, J., López-Matencio, P. **A machine learning approach for package size estimation using UHF RFID interrogation signature.** Applied Intelligence (2024). https://doi.org/10.1007/s10489-024-05412-2
